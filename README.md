@@ -22,10 +22,10 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 <img width="1664" height="771" alt="img" src="https://github.com/user-attachments/assets/5d0a4d60-80d6-4972-bdb8-882ad6544100" />
 ## Project Insight:
-Women are more likely to buy compared to men (~65%)															
-Maharashtra, Karnataka and Uttar Pradesh are the top 3															
-Adult age group (30-49 yrs) is max contributing (~50%)																
-Amazon, Flipkart and Myntra channels are max contributing
+-Women are more likely to buy compared to men (~65%)															
+-Maharashtra, Karnataka and Uttar Pradesh are the top 3															
+-Adult age group (30-49 yrs) is max contributing (~50%)																
+-Amazon, Flipkart and Myntra channels are max contributing
 ## Final Conclusion:
 Target women customers of age group (30-49 yrs) living in Maharashtra,Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
