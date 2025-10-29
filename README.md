@@ -19,3 +19,5 @@ Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1664" height="771" alt="img" src="https://github.com/user-attachments/assets/5d0a4d60-80d6-4972-bdb8-882ad6544100" />
